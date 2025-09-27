@@ -3,7 +3,17 @@ guid: 04a476cb54903c7498fa787f070278da
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Exterior_concrete_clean
+    second: {fileID: 2100000, guid: cb45db4ea4aa39c4e9b56ad3fcabdb8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Exterior_trims_clean
+    second: {fileID: 2100000, guid: b291a70122c66c34497d22144067f514, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

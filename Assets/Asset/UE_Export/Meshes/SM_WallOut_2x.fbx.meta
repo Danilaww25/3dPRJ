@@ -3,7 +3,12 @@ guid: 409b74b10a11e5747b79d1810025367c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Wallpanel_exterior_white_clean
+    second: {fileID: 2100000, guid: a23f7fd58303f6c4a937dba56130bd4f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,12 @@ guid: 2b389cafc58423940b6a6a01a95f69e2
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Basement_woods_pipes_clean
+    second: {fileID: 2100000, guid: 3ee03f61a3b837747a8b8574154c68bf, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

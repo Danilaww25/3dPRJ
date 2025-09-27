@@ -3,7 +3,37 @@ guid: 462d6cdcd5254cf4da26f6c2aacfd561
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Ceiling_planks_clean
+    second: {fileID: 2100000, guid: 053818e5d91ad3e47a01756e5d086c5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Exterior_gutter_clean
+    second: {fileID: 2100000, guid: 548c2d77b9e0cf04ca09f16aea59714e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Exterior_trims_clean
+    second: {fileID: 2100000, guid: b291a70122c66c34497d22144067f514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Exterior_woods_white_clean
+    second: {fileID: 2100000, guid: ac6dc7e68cac5c74fa5032b3a9318b7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Roof_rubber_slate_clean
+    second: {fileID: 2100000, guid: 51a8aa0cef2ad9f43abb5ffae671a5a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Wallpanel_exterior_white_clean
+    second: {fileID: 2100000, guid: a23f7fd58303f6c4a937dba56130bd4f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,12 @@ guid: 53c1d6e2ec47cd34f97d43ccc47ee816
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Bathtub_clean
+    second: {fileID: 2100000, guid: fec97ae860ec00e49a088ed3e37d9b93, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

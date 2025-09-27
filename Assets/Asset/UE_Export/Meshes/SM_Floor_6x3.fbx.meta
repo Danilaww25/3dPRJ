@@ -3,7 +3,12 @@ guid: 2edf7689a5e6675459943a6e663cc8b5
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Floor_wooden_A_clean
+    second: {fileID: 2100000, guid: 58a593fc8ce921048bf4c65479eb6bad, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
